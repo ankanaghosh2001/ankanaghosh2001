@@ -6,7 +6,7 @@
 ## :bear: About Me:
 - 😄 **Pronouns**: *She/Her*  
 - 💗 Check out my portfolio website: *[Here](ankana-ghosh.netlify.app)*  <!--- 🔭 I’m currently working on my **Portfolio Website2.0**-->
-- 🌱 I’m currently learning advanced **GSAP** and **materialUI**  
+- 🌱 I’m currently learning **Next.js**  
 - 💬 Ask me about **romcoms** and **romance novels**
 - ✨ Fun fact: **Lipstick is something that has to be on me and with me everytime I go out.**  
 
