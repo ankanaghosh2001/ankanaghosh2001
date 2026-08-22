@@ -7,7 +7,7 @@
 - 😄 **Pronouns**: *She/Her*  
 - 💗 Check out my portfolio website: *[Here](ankana-ghosh.netlify.app)*  <!--- 🔭 I’m currently working on my **Portfolio Website2.0**-->
 - 💬 Ask me about **romcoms** and **romance novels**
-- ✨ Fun fact: **Lipstick is something that has to be on me and with me everytime I go out.**
+- ✨ Fun fact: **nothing really interests me, just a chill person**
 <!--- 🌱 I’m currently learning **Next.js**  -->
 
 
